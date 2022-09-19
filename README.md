@@ -6,17 +6,17 @@
 - 🥅 2022 Goals: Create portfolio
 - ⚡ Fun fact: I love to travel and playing games
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: annamalaipalani11@gmail.com;
+- 📫 How to reach me: sritharsdckap@gmail.com;
 
 <br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/Annamalai345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Annamalai345" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/annamalai923/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="annamalai923" height="30" width="40" /></a>
+<a href="https://twitter.com/srithardckap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="srithardckap345" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/srithar-sakthivel-5102b020a/ target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="srithardckap@923" height="30" width="40" /></a>
 <a href="https://www.instagram.com/craziest_king_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="craziest_king_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/annshiv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="annshiv" height="30" width="40" /></a>
-<a href="https://leetcode.com/Annshiv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="annshiv" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/srithardckap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="srithardckap" height="30" width="40" /></a>
+<a href="https://leetcode.com/srithardckap/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="srithardckap" height="30" width="40" /></a>
 </p>
 
 <h2>Skills</h2>
@@ -55,10 +55,10 @@
 </p>
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=annshiv&theme=xcode" alt="annshiv" />
+<img src="https://activity-graph.herokuapp.com/graph?username=annshiv&theme=xcode" alt="srithardckap" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=annshiv&theme=dark" alt="Annshiv" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=annshiv&show_icons=true&theme=dark&count_private=true" alt="Annshiv" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=annshiv&theme=dark" alt="srithardckap" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=annshiv&show_icons=true&theme=dark&count_private=true" alt="srithardckap" />
 </p>
