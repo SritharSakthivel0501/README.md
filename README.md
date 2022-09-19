@@ -59,6 +59,5 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srithardckapv&theme=dark" alt="srithardckap" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srithardckap&show_icons=true&theme=dark&count_private=true" alt="srithardckap" />
 </p>
