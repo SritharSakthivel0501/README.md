@@ -1,10 +1,7 @@
-<h2 align="center"> Hey 👋🏽, I'm Annamalai </h2>
-
-## I'm a Developer !!
+<h2 align="center"> Hey 👋🏽, I'm Srithar </h2>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-- 🔭 I'm currently working as a software developer at LUMEL technologies
+  
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Create portfolio
 - ⚡ Fun fact: I love to travel and playing games
