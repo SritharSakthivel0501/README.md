@@ -42,23 +42,23 @@
 </p>
 <h3>Databases:</h3>
 <p>
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/mysql.png" alt="mysql" width="50" height="60"/>
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/mongo.gif" alt="mongodb" width="50" height="60"/>
+<img src="https://github.com/srithardckap/srithardckap/blob/main/Materials/mysql.png" alt="mysql" width="50" height="60"/>
+<img src="https://github.com/srithardckap/srithardckap/blob/main/Materials/mongo.gif" alt="mongodb" width="50" height="60"/>
 </p>
 
 ### Github Trophies:-
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=annshiv&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=srithardckap&theme=gruvbox"/>
   </a>
 </p>
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=annshiv&theme=xcode" alt="srithardckap" />
+<img src="https://activity-graph.herokuapp.com/graph?username=srithardckap&theme=xcode" alt="srithardckap" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=annshiv&theme=dark" alt="srithardckap" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=annshiv&show_icons=true&theme=dark&count_private=true" alt="srithardckap" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srithardckapv&theme=dark" alt="srithardckap" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srithardckap&show_icons=true&theme=dark&count_private=true" alt="srithardckap" />
 </p>
